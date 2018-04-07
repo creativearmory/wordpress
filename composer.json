@@ -1,0 +1,15 @@
+{
+    "name": "creativearmory/wordpress",
+    "description": "Extensive library of WordPress ultities and features",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nathan Lampe",
+            "email": "nlampe@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.0"
+    }
+}
