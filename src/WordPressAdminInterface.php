@@ -1,7 +1,4 @@
 <?php
-/**
- * todo move this to its own repo and add via vendor/composer
- */
 namespace CreativeArmory;
 
 
