@@ -1,7 +1,6 @@
 <?php
 namespace CreativeArmory;
 
-
 interface WordPressAdminInterface
 {
     /**
